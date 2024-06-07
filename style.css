@@ -3,70 +3,49 @@
     padding: 0;
     box-sizing: border-box;
     }
-
-body{
-font-family: "Poppins", sans-serif;
-}
-
-header{
-background-color: #D72ED0;
-color: #D72ED0;
-width: 100%;
-padding: 20px;
-
-}
-.cabecalho-itens{max-width: 1980px;
+    
+    body{
+    font-family: "Poppins", sans-serif;
+    }
+    
+    header{
+    background-color: #d4d8de;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    
+    }
+    .cabecalho-itens{
+    max-width: 1980px;
     margin: 0 auto;
     display: flex;
-    
-    align-items:center;
-    
-    justify-content:center;
-}
-.cabecalho-imagens{
-
-    width: 10%;
-    display: flex
-    ;
-    
-    justify-content: flex
-    
-    -start;
-    
     align-items: center;
+    justify-content: center;
+    }
+    .cabecalho-imagem{
+    width: 10%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    }
+    .titulo_site{
+    padding: 50px;
+    text-align: center;
+    width: 50%;
+    font: 30px;
+    }
+    .sociais{
+    display: flex;
+    justify-content: flex-end;
+    width: 25%;
+    padding-right: 30px;
+    }
+    .banner1{
+    display: flex;
+    justify-content: center;
+    }
     
-}
-.titulo_site{
-    color: black;
-
-padding: 50px;
-
-text-align: center;
-
-width: 50%;
-
-font: 100px;
-
-}
-.sociais{
-
-display: flex;
-
-justify-content: flex-end;
-
-width: 25%;
-
-padding-right: 10px;
-
-}
-.banner1{
-
-display: center ;
-
-justify-content: center ;
-
-}
-.estudante_titulo{
+    .estudante_titulo{
     padding: 50px;
     text-align: center;
     }
@@ -84,7 +63,7 @@ justify-content: center ;
     }
     
     .estudante{
-    background-image: background-color(#FF00B8);
+    background-image: background-color(#FFF6E9);
     padding: 24px 0;
     }
     

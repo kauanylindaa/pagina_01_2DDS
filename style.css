@@ -44,6 +44,7 @@
     .banner1{
     display: flex;
     justify-content: center;
+    background-size: contain ;
     }
     
     .estudante_titulo{

@@ -42,6 +42,7 @@
     padding-right: 30px;
     }
     .banner1{
+        background-size: auto;
     display: flex;
     justify-content: center;
     }

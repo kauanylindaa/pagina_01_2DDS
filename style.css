@@ -9,8 +9,8 @@
     }
     
     header{
-    background-color:#D72ED0 (5, 54, 129);
-    color: rgb(255, 246, 253);
+    background-color: #d4d8de;
+    color: white;
     width: 100%;
     padding: 20px;
     
@@ -21,7 +21,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    
     }
     .cabecalho-imagem{
     width: 10%;
@@ -30,7 +29,6 @@
     align-items: center;
     }
     .titulo_site{
-    color: #000000;
     padding: 50px;
     text-align: center;
     width: 50%;
@@ -43,7 +41,6 @@
     padding-right: 30px;
     }
     .banner1{
-    background-size: contain  ;    
     display: flex;
     justify-content: center;
     }
